@@ -1,10 +1,11 @@
 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://github.com/matijaime/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hi+There%2C+I'm+Matias+Jaime%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </div>
+
 
   
 ## :mailbox: Connect with Me</br>
