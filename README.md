@@ -7,16 +7,15 @@
  <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN PROCESO
-                
-💻 un joven de 15 años aprendiendo de todo un poco 
+  🎓 <strong>INGENIERO EN PROCESO</strong>
+  
+  💻 un joven de 15 años aprendiendo de todo un poco 
 
-📝 roles en el ámbito: programador freelance
+  📝 roles en el ámbito: programador freelance
 
-📫 Contacto: matiasjaime699@gmail.com
-        
-<!--Intro end-->
+  📫 Contacto: matiasjaime699@gmail.com
 </p>
+
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
