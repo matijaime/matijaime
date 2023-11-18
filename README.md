@@ -30,7 +30,6 @@
   
 </div>
 
-[![Spotify](https://novatorem.matijaime.vercel.app/api/spotify)](https://open.spotify.com/intl-es/artist/3TVXtAsR1Inumwj472S9r4?si=HZDfKWv8SAGnGclbOyyWbA)
 
 
 
