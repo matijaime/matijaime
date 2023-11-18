@@ -6,7 +6,7 @@
  <h2>Sobre mi 😃</h2>
  <!--Intro start-->
 
-<p align="left">
+<p>
   🎓 <strong>INGENIERO EN PROCESO</strong>
   
   💻 un joven de 15 años aprendiendo de todo un poco 
