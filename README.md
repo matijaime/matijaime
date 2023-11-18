@@ -30,7 +30,7 @@
   
 </div>
 
-[![Mi GitHub](https://img.shields.io/badge/GitHub-matijaime-brightgreen)](https://github.com/matijaime)
+[![Spotify](https://novatorem.matijaime.vercel.app/api/spotify)](https://open.spotify.com/intl-es/artist/3TVXtAsR1Inumwj472S9r4?si=HZDfKWv8SAGnGclbOyyWbA)
 
 
 
