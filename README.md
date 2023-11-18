@@ -16,14 +16,17 @@
   📫 Contacto: matiasjaime699@gmail.com
 </p>
 
-<br>
+<div align="center">
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,py,css,html,js,sqlite,vscode,ai,qt,ps,figma&perline=12" />
-  </a>
-</p>
-<br>
+  <br>
+  <h2>Tecnologías conocidas👨🏻‍💻</h2>
+  <!--tech stack icons-->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=androidstudio,py,css,html,js,sqlite,vscode,ai,qt,ps,figma&perline=12" />
+    </a>
+  </p>
+  <br>
+
+</div>
 
