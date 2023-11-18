@@ -27,6 +27,10 @@
     </a>
   </p>
   <br>
-
+  
 </div>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)][(https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/intl-es/track/2G7V7zsVDxg1yRsu7Ew9RJ?si=668eea01f1fc4902)https://open.spotify.com/intl-es/track/2G7V7zsVDxg1yRsu7Ew9RJ?si=668eea01f1fc4902)
+
+
 
