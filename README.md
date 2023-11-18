@@ -1,12 +1,8 @@
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://github.com/matijaime/" style="text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hi+There%2C+I'm+Matias+Jaime%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center"><a href="https://github.com/matijaime/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hi+There%2C+I'm+Matias+Jaime%F0%9F%91%8B" alt="Typing SVG" /></a></p>
 
-
+<div align="center">
   
 ## :mailbox: Connect with Me</br>
 </div>
@@ -14,7 +10,7 @@
 <br />
 <p align="center">
 <a href="https://instagram/matijaime__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="matijaime" height="30" width="40" /></a>
-<a href="https://twitter.com/matijaime__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="matijaime__" height="30" width="40" /></a>
+<a href="https://twitter.com/matijaime__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=tw" alt="matijaime__" height="30" width="40" /></a>
 </p>
 
 
