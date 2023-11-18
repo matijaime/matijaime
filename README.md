@@ -10,7 +10,7 @@
 <br />
 <p align="center">
 <a href="https://instagram/matijaime__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="matijaime" height="30" width="40" /></a>
-<a href="https://twitter.com/matijaime__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=tw" alt="matijaime__" height="30" width="40" /></a>
+<a href="https://twitter.com/matijaime__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="matijaime__" height="30" width="40" /></a>
 </p>
 
 
