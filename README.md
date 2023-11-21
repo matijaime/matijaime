@@ -19,7 +19,7 @@
 <div align="center">
 
   <br>
-  <h2>Tecnologías conocidas👨🏻‍💻</h2>
+  <h2>Known technologies👨🏻‍💻👨🏻‍💻</h2>
   <!--tech stack icons-->
   <p align="center">
     <a href="https://skillicons.dev">
