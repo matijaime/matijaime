@@ -7,7 +7,7 @@
  <!--Intro start-->
 
 <p>
-  🎓 <strong>🎓 ENGINEER IN PROCESS</strong>
+  🎓 ENGINEER IN PROCESS</strong>
   
   💻 a 15 year old young man learning a little about everything 
 
