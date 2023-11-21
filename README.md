@@ -3,17 +3,17 @@
 <div align="center">
 
 <br>
- <h2>Sobre mi 😃</h2>
+ <h2>About me 😃</h2>
  <!--Intro start-->
 
 <p>
-  🎓 <strong>INGENIERO EN PROCESO</strong>
+  🎓 <strong>🎓 ENGINEER IN PROCESS</strong>
   
-  💻 un joven de 15 años aprendiendo de todo un poco 
+  💻 a 15 year old young man learning a little about everything 
 
-  📝 roles en el ámbito: programador freelance
+  📝 roles in the field: freelance programmer
 
-  📫 Contacto: matiasjaime699@gmail.com
+  📫Contact: matiasjaime699@gmail.com
 </p>
 
 <div align="center">
