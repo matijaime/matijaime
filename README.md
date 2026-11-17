@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./foto-github.jpeg" alt="Mati Jaime" width="300" />
-</p>
-
 <h1 align="center">Hola, soy Mati ✦</h1>
 
 <p align="center">
@@ -39,7 +35,3 @@ idea → prototipo → código → detalles → publicar → mejorar
 </p>
 
 ### `> hablemos`
-
-¿Tenés una idea para construir? [Escribime](mailto:matiasjaime699@gmail.com) o mirá [mis repositorios](https://github.com/matijaime?tab=repositories).
-
-<p align="center"><sub>Siempre creando. Siempre iterando. ✦</sub></p>
